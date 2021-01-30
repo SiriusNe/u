@@ -1,26 +1,26 @@
 const help = (prefix) => {
-	return `🔰---[ *MENU ARR157-BOT* ]---🔰
+	return `🔰---[ *MENU* ]---🔰
+Caso nao estaja funcionando me avise 
+wa.me/5537999232558
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
 ┃   *caso aocontrario  BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ PROPRIETÁRIO : *BRUXINHO*
-┃⊱❥ ATIVO : *08:00-22:00 WIB*
+┃⊱❥ PROPRIETÁRIO : *foi o arr157 bot q fez*
+┃⊱❥ ATIVO : *12:00am a 23:59 *
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSÃO : 1.1
-┃⊱❥ número do meu criador:wa.me/+27624213430
-┃⊱❥ Da uma FORÇA la no meu canal fml:https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
+┃⊱❥ número do meu criador:wa.me/5537999232558
 ┃⊱❥ LINK do meu GRUPO: https://chat.whatsapp.com/FvPEpkaPrFXAErjML3ekyW
 ┃⊱❥ *SE FOR KIBAR DEIXA OS CRÉDITOS MAN*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ 🌀𝑻𝒆𝒏𝒕𝒂𝒏𝒈 𝑩𝑶𝑻🌀
+┃ 😈𝑻𝒆𝒏𝒕𝒂𝒏𝒈 𝑩𝑶𝑻😈
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}info
-┃➢ ${prefix}owner
 ┃➢ ${prefix}donasi
 ┃➢ ${prefix}blocklist
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ 🌀𝑴𝒆𝒏𝒖 𝑺𝑰𝑴𝑷𝑳𝑬S🌀
+┃ 🐊𝑴𝒆𝒏𝒖 𝑺𝑰𝑴𝑷𝑳𝑬S🐊
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}sticker
 ┃➢ ${prefix}toimg
@@ -32,7 +32,7 @@ const help = (prefix) => {
 ┃ 🌀𝑴𝒆𝒏𝒖 𝑫𝑶𝑾𝑵𝑳𝑶𝑨𝑫🌀
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}tiktod
-┃➢ ${prefix}ytmp3
+┃➢ ${prefix}ytmp3 (se nao funcionar use .play
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 🌀𝑴𝒆𝒏𝒖 𝑮𝑨𝑩𝑼𝑻𝒁🌀
@@ -47,12 +47,12 @@ const help = (prefix) => {
 ┃➢ ${prefix}dare
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ 🌀𝑴𝒆𝒏𝒖 𝑴𝑬𝑴𝑬🌀
+┃ 🤯𝑴𝒆𝒏𝒖 𝑴𝑬𝑴𝑬👻
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}meme
 ┃➢ ${prefix}memeindo
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ 🌀𝑴𝒆𝒏𝒖 𝑮𝑹𝑶𝑼𝑷🌀
+┃ ❌𝑴𝒆𝒏𝒖 𝑮𝑹𝑶𝑼𝑷❌
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}admin
 ┃➢ ${prefix}welcome [1/0]
@@ -77,7 +77,7 @@ const help = (prefix) => {
 ┃➢ ${prefix}nsfwtrap
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ 🌀𝑴𝒆𝒏𝒖 𝑶𝑻𝑯𝑬𝑹🌀
+┃ 🥱𝑴𝒆𝒏𝒖 𝑶𝑻𝑯𝑬𝑹🥱
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}ssweb
 ┃➢ ${prefix}simi
@@ -88,7 +88,7 @@ const help = (prefix) => {
 ┃➢ ${prefix}ytstalk
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ 🌀𝑴𝒆𝒏𝒖 𝑴𝑨𝑲𝑬𝑹🌀
+┃ 🤙𝑴𝒆𝒏𝒖 𝑴𝑨𝑲𝑬𝑹👄
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}hartatahta
 ┃➢ ${prefix}pornhub
@@ -108,17 +108,9 @@ const help = (prefix) => {
 ┃➢ ${prefix}clearall
 ┃➢ ${prefix}clone
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⟪ CRIADO POR BY *BRUXINHO MODS* ⟫
+┃⟪ CRIADO POR BY *BRUXINHO MODS* ⟫ Ele q fez
 ┣━━━━━━━━━━━━━━━━━━━━┓
 
-             ╲    ╱    ● ᏴϴͲ●ᎷᎬΝႮ●
-       ╱▔▔▔▔▔╲       Autor    : ARR157 BOT
-      ┃┈▇┈┈▇┈┃      
-╭╮┣━━━━━━┫╭╮    
-┃┃┃┈┈┈┈┈┈┃┃┃    
-╰╯┃┈┈┈┈┈┈┃╰╯
-      ╰┓┏━━┓┏╯
-         ╰╯      ╰╯
 `
 }
 
