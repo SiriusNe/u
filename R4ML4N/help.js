@@ -11,8 +11,6 @@ wa.me/5537999232558
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSÃO : 1.1
 ┃⊱❥ número do meu criador:wa.me/5537999232558
-┃⊱❥ LINK do meu GRUPO: https://chat.whatsapp.com/FvPEpkaPrFXAErjML3ekyW
-┃⊱❥ *SE FOR KIBAR DEIXA OS CRÉDITOS MAN*
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 😈𝑻𝒆𝒏𝒕𝒂𝒏𝒈 𝑩𝑶𝑻😈
 ┣━━━━━━━━━━━━━━━━━━━━┓
