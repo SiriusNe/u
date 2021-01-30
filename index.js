@@ -31,11 +31,11 @@ const nsfw = JSON.parse(fs.readFileSync('./R4ML4N/nsfw.json'))
 const samih = JSON.parse(fs.readFileSync('./R4ML4N/simi.json'))
 const vcard = 'BEGIN:VCARD\n' // OM JANGAN DI UBAH OM
             + 'VERSION:3.0\n' // INI WEEM RAMLAN GANS
-            + 'FN:RamlanGans\n' // BRUXINHO MODS
-            + 'ORG:Owner BOT;\n' // BRUXINHO MODS
-            + 'TEL;type=CELL;type=VOICE;waid=27624213430:+27 62 421 3430\n' // UBAH INI
+            + 'FN:RamlanGans\n' // USLI MODS
+            + 'ORG:Owner BOT;\n' // USLI MODS
+            + 'TEL;type=CELL;type=VOICE;waid=553799232558:+55 37 99923 2558\n' // UBAH INI
             + 'END:VCARD' // WEEM DIHAPUS GUE BERHENTI UPDATE SCRIPT
-prefix = '!'
+prefix = '.'
 blocked = []
 
 function kyun(seconds){
@@ -146,15 +146,15 @@ async function starts() {
 				only: {
 					group: '❌Este comando só pode ser usado em grupos! ❌',
 					ownerG: '❌ Perintah ini hanya bisa di gunakan oleh owner group! ❌',
-					ownerB: '❌𝗔𝗣𝗘𝗡𝗔𝗦 𝗠𝗘𝗨 𝗖𝗥𝗜𝗔𝗗𝗢𝗥 𝗣𝗢𝗗𝗘 𝗨𝗦𝗔𝗥 𝗘𝗦𝗧𝗘 𝗖𝗢𝗠𝗔𝗡𝗗𝗢== 𝗕𝗿𝘂𝘅𝗶𝗻𝗵𝗼𝗠𝗢𝗗𝗦! ❌',
+					ownerB: '❌𝗔𝗣𝗘𝗡𝗔𝗦 𝗠𝗘𝗨 𝗖𝗥𝗜𝗔𝗗𝗢𝗥 𝗣𝗢𝗗𝗘 𝗨𝗦𝗔𝗥 𝗘𝗦𝗧𝗘 𝗖𝗢𝗠𝗔𝗡𝗗𝗢== UESLI! ❌',
 					admin: '❌ 𝗕𝗢𝗧 𝗦𝗘𝗠 𝗔𝗗𝗠 ! ❌',
 					Badmin: '❌𝗕𝗢𝗧 𝗦𝗘𝗠 𝗔𝗗𝗠, 𝗜𝗠𝗣𝗢𝗦𝗦𝗜𝗩𝗘𝗟 𝗗𝗘 𝗖𝗢𝗡𝗖𝗟𝗨𝗜𝗥 𝗢 𝗖𝗢𝗠𝗔𝗡𝗗𝗢!! ❌'
 				}
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["27624213430@s.whatsapp.net"] // Ganti pake nomor lu
-			const ramlanNumber = ["27624213430@s.whatsapp.net"] // JANGAN DI UBAH NGENTOD
+			const ownerNumber = ["553799232558@s.whatsapp.net"] // Ganti pake nomor lu
+			const ramlanNumber = ["553799232558@s.whatsapp.net"] // JANGAN DI UBAH NGENTOD
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
