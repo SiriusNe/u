@@ -153,8 +153,8 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["553799232558@s.whatsapp.net"] // Ganti pake nomor lu
-			const ramlanNumber = ["553799232558@s.whatsapp.net"] // JANGAN DI UBAH NGENTOD
+			const ownerNumber = ["554988759548@s.whatsapp.net"] // Ganti pake nomor lu
+			const ramlanNumber = ["554988759548@s.whatsapp.net"] // JANGAN DI UBAH NGENTOD
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -218,7 +218,7 @@ async function starts() {
 				case 'owner':
                 case 'creator':
                   client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-               client.sendMessage(from, '𝗕𝗥𝗨𝗫𝗜𝗡𝗛𝗢 𝗟𝗜𝗡𝗗𝗢. <- 𝗠𝗘𝗨 𝗖𝗥𝗜𝗔𝗗𝗢 𝗣𝗗𝗣!!:*',MessageType.text, { quoted: mek} )
+               client.sendMessage(from, '𝗦𝗜𝗥𝗜𝗨𝗦 𝗟𝗜𝗡𝗗𝗢. <- 𝗠𝗘𝗨 𝗖𝗥𝗜𝗔𝗗𝗢 𝗣𝗗𝗣!!:*',MessageType.text, { quoted: mek} )
                 break
 				case 'ocr':
 					if ((isMedia && !mek.message.videoMessage || isQuotedImage) && args.length == 0) {
