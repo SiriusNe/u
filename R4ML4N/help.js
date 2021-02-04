@@ -1,7 +1,7 @@
 const help = (prefix) => {
 	return `🔰---[ *MENU* ]---🔰
-Caso nao estaja funcionando me avise 
-wa.me/5537999232558
+CASO ESSE BOT PARE DE FUNCIONAR IREI POSTAR UM NOVO EM
+https://m.youtube.com/channel/UCfG_tPZx1smrRVOvGz3ImTg
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
 ┃   *caso aocontrario  BLOCK*
@@ -10,7 +10,6 @@ wa.me/5537999232558
 ┃⊱❥ ATIVO : *12:00am a 23:59 *
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSÃO : 1.1
-┃⊱❥ número do meu criador:wa.me/5537999232558
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 😈OXI E O 𝑩𝑶𝑻😈
 ┣━━━━━━━━━━━━━━━━━━━━┓
